@@ -1,0 +1,6 @@
+{
+  "name": "Sashakt Women Safety & Legal Help",
+  "description": "An immersive digital workspace combining a 3D SOS panic trigger, ICJS department tracker, local safe corridor maps, and a server-side Gemini legal counselor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
